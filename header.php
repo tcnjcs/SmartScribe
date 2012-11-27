@@ -5,19 +5,12 @@
 <link href="css/page_style.css" rel="stylesheet" type="text/css" />
 
 <body>
-	<div id="header_image">
+	<!--<div id="header_image">
         <div id="header"><h1><a></a></h1></div>
-    </div>
-
-	<table align="center">
+    </div>-->
+	<table align="center" style="margin-bottom:10px">
 		<td align="center">
-		<ul id="list_nav">
-			<li><a href="./index.php">Home</a></li>
-			<li><a href="./transcribe.php">Transcribe Audio</a></li>
-			<li><a href="./upload.php">Upload File</a></li>
-			<li><a href="./browse.php">Browse Transciptions</a></li>
-			<li><a href="./account.php">Account</a></li>
-		</ul>
+		<img src="images/banner.png" width="1360px">
 		</td>
 	</table>
 

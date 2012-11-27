@@ -16,6 +16,28 @@
 	</head>
 	
 	<body>
+	<table align="center">
+		<tr>
+		<td align="center">
+			<table id="main_frame" align="center">
+				<tr height="450px"></tr>
+			</table>
+		</td>
+		<td align="right" valign="top">
+			<table>
+				<td align="right">
+				<ul id="toolbar">
+					<li><a href="./index.php">Home</a></li>
+					<li><a href="./transcribe.php">Transcribe Audio</a></li>
+					<li><a href="./upload.php">Upload File</a></li>
+					<li><a href="./browse.php">Browse Transciptions</a></li>
+					<li><a href="./account.php">Account</a></li>
+				</ul>
+				</td>
+			</table>
+		</td>
+		</tr>
+	</table>
 	
 	</body>
 
